@@ -6,7 +6,7 @@ cd dist
 
 git init
 git add -A
-git commit -m 'deploy'
+git commit -m '0.1.0'
 
 git push -f git@github.com:DantesSagan/simple-form.git master:gh-pages
 

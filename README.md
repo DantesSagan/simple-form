@@ -1,24 +1,8 @@
-# simple-form
+# hi
 
-## Project setup
-```
-npm install
-```
+I'm Alexsander
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## there is my project
 
-### Compiles and minifies for production
-```
-npm run build
-```
+simple-form
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
